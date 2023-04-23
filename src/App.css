@@ -6,3 +6,23 @@
     border: 3px solid black;
     text-align: center;
 }
+.ship{
+    border: 3px solid black;
+    text-align: center;
+    margin: 10px;
+}
+.ships{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.posts{
+    border: 3px solid black;
+    text-align: center;
+    margin: 10px;
+}
+.user{
+    border: 3px solid red;
+    text-align: center;
+    margin: 10px;
+}
