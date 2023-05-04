@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import {commentService} from "../services/comment.service";
+import {commentService} from "../../services/comment.service";
 import Comment from "../comment/comment";
 import {Outlet} from "react-router-dom";
 

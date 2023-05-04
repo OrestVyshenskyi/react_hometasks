@@ -1,9 +1,9 @@
 import './App.css'
 import {Link, Route, Routes} from "react-router-dom";
-import Todos from "./todos/todos";
-import Albums from "./albums/albums";
-import Comments from "./comments/comments";
-import Posts from "./posts/posts";
+import Todos from "./components/todos/todos";
+import Albums from "./components/albums/albums";
+import Comments from "./components/comments/comments";
+import Posts from "./components/posts/posts";
 
 function App() {
     return(

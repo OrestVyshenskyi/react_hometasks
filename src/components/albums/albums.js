@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import {albumService} from "../services/album.service";
+import {albumService} from "../../services/album.service";
 import Album from "../album/album";
 
 const Albums = () => {
